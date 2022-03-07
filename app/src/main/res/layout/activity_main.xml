@@ -13,6 +13,4 @@
         app:layoutManager="LinearLayoutManager"
         android:scrollbars="vertical"/>
 
-
-
 </FrameLayout>
